@@ -9,7 +9,7 @@ This project is a light intensity data logging system using the TSL2591 sensor, 
 - Supports automatic logging at specified intervals.
 
 ## Hardware Requirements
-- **Microcontroller**: Arduino UNO.
+- **Microcontroller**: Arduino Nano.
 - **Light Sensor**: Adafruit TSL2591.
 - **RTC Module**: DS1302.
 - **SD Card Module**.

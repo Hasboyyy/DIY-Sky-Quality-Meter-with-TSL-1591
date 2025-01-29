@@ -1,4 +1,4 @@
-# TSL2591 Data Logger
+# Embedded Sky Brightness Measurement System with Real-Time Data Logging
 
 This project is a light intensity data logging system using the TSL2591 sensor, an RTC DS1302 module for timestamping, and an SD card module for data storage. The data is logged in CSV format, making it easy to access and analyze.
 
